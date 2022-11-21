@@ -1,2 +1,2 @@
-### Function Types And Callbacks
+### CALLBACK FUNCTION TYPES
 - Learning about callback function types
